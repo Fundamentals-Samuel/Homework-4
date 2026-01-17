@@ -1,0 +1,589 @@
+"name","maternal_mortality","Indicator","Value","id"
+"Afghanistan",521,"region","South Asia",1
+"Albania",7,"region","Europe",2
+"Algeria",62,"region","Africa",3
+"Andorra",11,"region","Europe",4
+"Angola",183,"region","Africa",5
+"Antigua and Barbuda",35,"region","Central America and the Caribbean",6
+"Argentina",33,"region","South America",7
+"Armenia",19,"region","Central Asia",8
+"Australia",2,"region","Australia and Oceania",9
+"Austria",6,"region","Europe",10
+"Azerbaijan",18,"region","Central Asia",11
+"Bahamas, The",76,"region","Central America and the Caribbean",12
+"Bahrain",17,"region","Middle East",13
+"Bangladesh",115,"region","South Asia",14
+"Barbados",35,"region","Central America and the Caribbean",15
+"Belarus",1,"region","Europe",16
+"Belgium",4,"region","Europe",17
+"Belize",67,"region","Central America and the Caribbean",18
+"Benin",518,"region","Africa",19
+"Bhutan",47,"region","South Asia",20
+"Bolivia",146,"region","South America",21
+"Bosnia and Herzegovina",6,"region","Europe",22
+"Botswana",155,"region","Africa",23
+"Brazil",67,"region","South America",24
+"Brunei",36,"region","East and Southeast Asia",25
+"Bulgaria",6,"region","Europe",26
+"Burkina Faso",242,"region","Africa",27
+"Burma",185,"region","East and Southeast Asia",28
+"Burundi",392,"region","Africa",29
+"Cabo Verde",40,"region","Africa",30
+"Cambodia",137,"region","East and Southeast Asia",31
+"Cameroon",258,"region","Africa",32
+"Canada",12,"region","North America",33
+"Central African Republic",692,"region","Africa",34
+"Chad",748,"region","Africa",35
+"Chile",10,"region","South America",36
+"China",16,"region","East and Southeast Asia",37
+"Colombia",59,"region","South America",38
+"Comoros",179,"region","Africa",39
+"Congo, Democratic Republic of the",427,"region","Africa",40
+"Congo, Republic of the",241,"region","Africa",41
+"Cook Islands",0,"region","Australia and Oceania",42
+"Costa Rica",24,"region","Central America and the Caribbean",43
+"Cote d'Ivoire",359,"region","Africa",44
+"Croatia",3,"region","Europe",45
+"Cuba",35,"region","Central America and the Caribbean",46
+"Cyprus",14,"region","Europe",47
+"Czechia",3,"region","Europe",48
+"Denmark",4,"region","Europe",49
+"Djibouti",162,"region","Africa",50
+"Dominica",36,"region","Central America and the Caribbean",51
+"Dominican Republic",124,"region","Central America and the Caribbean",52
+"Ecuador",55,"region","South America",53
+"Egypt",17,"region","Africa",54
+"El Salvador",39,"region","Central America and the Caribbean",55
+"Equatorial Guinea",174,"region","Africa",56
+"Eritrea",291,"region","Africa",57
+"Estonia",5,"region","Europe",58
+"Eswatini",118,"region","Africa",59
+"Ethiopia",195,"region","Africa",60
+"Fiji",30,"region","Australia and Oceania",61
+"Finland",8,"region","Europe",62
+"France",7,"region","Europe",63
+"Gabon",233,"region","Africa",64
+"Gambia, The",354,"region","Africa",65
+"Gaza Strip",16,"region","Middle East",66
+"Georgia",20,"region","Central Asia",67
+"Germany",4,"region","Europe",68
+"Ghana",234,"region","Africa",69
+"Greece",5,"region","Europe",70
+"Grenada",48,"region","Central America and the Caribbean",71
+"Guatemala",94,"region","Central America and the Caribbean",72
+"Guinea-Bissau",505,"region","Africa",73
+"Guinea",494,"region","Africa",74
+"Guyana",75,"region","South America",75
+"Haiti",328,"region","Central America and the Caribbean",76
+"Honduras",47,"region","Central America and the Caribbean",77
+"Hungary",12,"region","Europe",78
+"Iceland",3,"region","Europe",79
+"India",80,"region","South Asia",80
+"Indonesia",140,"region","East and Southeast Asia",81
+"Iran",16,"region","Middle East",82
+"Iraq",66,"region","Middle East",83
+"Ireland",4,"region","Europe",84
+"Israel",2,"region","Middle East",85
+"Italy",6,"region","Europe",86
+"Jamaica",130,"region","Central America and the Caribbean",87
+"Japan",3,"region","East and Southeast Asia",88
+"Jordan",31,"region","Middle East",89
+"Kazakhstan",10,"region","Central Asia",90
+"Kenya",379,"region","Africa",91
+"Kiribati",80,"region","Australia and Oceania",92
+"Korea, North",67,"region","East and Southeast Asia",93
+"Korea, South",4,"region","East and Southeast Asia",94
+"Kuwait",8,"region","Middle East",95
+"Kyrgyzstan",42,"region","Central Asia",96
+"Laos",112,"region","East and Southeast Asia",97
+"Latvia",19,"region","Europe",98
+"Lebanon",15,"region","Middle East",99
+"Lesotho",478,"region","Africa",100
+"Liberia",628,"region","Africa",101
+"Libya",59,"region","Africa",102
+"Lithuania",8,"region","Europe",103
+"Luxembourg",12,"region","Europe",104
+"Madagascar",445,"region","Africa",105
+"Malawi",225,"region","Africa",106
+"Malaysia",26,"region","East and Southeast Asia",107
+"Maldives",32,"region","South Asia",108
+"Mali",367,"region","Africa",109
+"Malta",8,"region","Europe",110
+"Marshall Islands",155,"region","Australia and Oceania",111
+"Mauritania",381,"region","Africa",112
+"Mauritius",66,"region","Africa",113
+"Mexico",42,"region","North America",114
+"Micronesia, Federated States of",129,"region","Australia and Oceania",115
+"Moldova",19,"region","Europe",116
+"Monaco",5,"region","Europe",117
+"Mongolia",41,"region","East and Southeast Asia",118
+"Montenegro",6,"region","Europe",119
+"Morocco",70,"region","Africa",120
+"Mozambique",82,"region","Africa",121
+"Namibia",139,"region","Africa",122
+"Nauru",273,"region","Australia and Oceania",123
+"Nepal",142,"region","South Asia",124
+"Netherlands",4,"region","Europe",125
+"New Zealand",7,"region","Australia and Oceania",126
+"Nicaragua",60,"region","Central America and the Caribbean",127
+"Niger",350,"region","Africa",128
+"Nigeria",993,"region","Africa",129
+"North Macedonia",3,"region","Europe",130
+"Norway",1,"region","Europe",131
+"Oman",13,"region","Middle East",132
+"Pakistan",155,"region","South Asia",133
+"Palau",89,"region","Australia and Oceania",134
+"Panama",37,"region","Central America and the Caribbean",135
+"Papua New Guinea",189,"region","East and Southeast Asia",136
+"Paraguay",58,"region","South America",137
+"Peru",51,"region","South America",138
+"Philippines",84,"region","East and Southeast Asia",139
+"Poland",2,"region","Europe",140
+"Portugal",15,"region","Europe",141
+"Puerto Rico",11,"region","Central America and the Caribbean",142
+"Qatar",4,"region","Middle East",143
+"Romania",12,"region","Europe",144
+"Russia",9,"region","Central Asia",145
+"Rwanda",229,"region","Africa",146
+"Saint Kitts and Nevis",74,"region","Central America and the Caribbean",147
+"Saint Lucia",44,"region","Central America and the Caribbean",148
+"Saint Vincent and the Grenadines",56,"region","Central America and the Caribbean",149
+"Samoa",101,"region","Australia and Oceania",150
+"San Marino",8,"region","Europe",151
+"Sao Tome and Principe",75,"region","Africa",152
+"Saudi Arabia",7,"region","Middle East",153
+"Senegal",237,"region","Africa",154
+"Serbia",11,"region","Europe",155
+"Seychelles",42,"region","Africa",156
+"Sierra Leone",354,"region","Africa",157
+"Singapore",6,"region","East and Southeast Asia",158
+"Slovakia",4,"region","Europe",159
+"Slovenia",3,"region","Europe",160
+"Solomon Islands",123,"region","Australia and Oceania",161
+"Somalia",563,"region","Africa",162
+"South Africa",118,"region","Africa",163
+"South Sudan",692,"region","Africa",164
+"Spain",3,"region","Europe",165
+"Sri Lanka",18,"region","South Asia",166
+"Sudan",256,"region","Africa",167
+"Suriname",84,"region","South America",168
+"Sweden",4,"region","Europe",169
+"Switzerland",5,"region","Europe",170
+"Syria",20,"region","Middle East",171
+"Tajikistan",14,"region","Central Asia",172
+"Tanzania",276,"region","Africa",173
+"Thailand",34,"region","East and Southeast Asia",174
+"Timor-Leste",192,"region","East and Southeast Asia",175
+"Togo",349,"region","Africa",176
+"Tonga",67,"region","Australia and Oceania",177
+"Trinidad and Tobago",54,"region","Central America and the Caribbean",178
+"Tunisia",36,"region","Africa",179
+"Turkey (Turkiye)",15,"region","Middle East",180
+"Turkmenistan",5,"region","Central Asia",181
+"Tuvalu",170,"region","Australia and Oceania",182
+"Uganda",170,"region","Africa",183
+"Ukraine",15,"region","Europe",184
+"United Arab Emirates",3,"region","Middle East",185
+"United Kingdom",8,"region","Europe",186
+"United States",17,"region","North America",187
+"Uruguay",15,"region","South America",188
+"Uzbekistan",26,"region","Central Asia",189
+"Vanuatu",100,"region","Australia and Oceania",190
+"Venezuela",227,"region","South America",191
+"Vietnam",48,"region","East and Southeast Asia",192
+"West Bank",16,"region","Middle East",193
+"Yemen",118,"region","Middle East",194
+"Zambia",85,"region","Africa",195
+"Zimbabwe",358,"region","Africa",196
+"Afghanistan",521,"infant_mortality","101.3",1
+"Albania",7,"infant_mortality","10.3",2
+"Algeria",62,"infant_mortality","18.7",3
+"Andorra",11,"infant_mortality","3.3",4
+"Angola",183,"infant_mortality","55.6",5
+"Antigua and Barbuda",35,"infant_mortality","13.6",6
+"Argentina",33,"infant_mortality","9",7
+"Armenia",19,"infant_mortality","11.6",8
+"Australia",2,"infant_mortality","2.9",9
+"Austria",6,"infant_mortality","3.2",10
+"Azerbaijan",18,"infant_mortality","10.9",11
+"Bahamas, The",76,"infant_mortality","9.4",12
+"Bahrain",17,"infant_mortality","9.7",13
+"Bangladesh",115,"infant_mortality","28.8",14
+"Barbados",35,"infant_mortality","9.6",15
+"Belarus",1,"infant_mortality","2.1",16
+"Belgium",4,"infant_mortality","3.1",17
+"Belize",67,"infant_mortality","11.3",18
+"Benin",518,"infant_mortality","52.9",19
+"Bhutan",47,"infant_mortality","24.3",20
+"Bolivia",146,"infant_mortality","22.3",21
+"Bosnia and Herzegovina",6,"infant_mortality","5",22
+"Botswana",155,"infant_mortality","23.7",23
+"Brazil",67,"infant_mortality","12.9",24
+"Brunei",36,"infant_mortality","10",25
+"Bulgaria",6,"infant_mortality","7.7",26
+"Burkina Faso",242,"infant_mortality","47",27
+"Burma",185,"infant_mortality","32.1",28
+"Burundi",392,"infant_mortality","35.7",29
+"Cabo Verde",40,"infant_mortality","22.4",30
+"Cambodia",137,"infant_mortality","27.9",31
+"Cameroon",258,"infant_mortality","46.1",32
+"Canada",12,"infant_mortality","4.3",33
+"Central African Republic",692,"infant_mortality","80.5",34
+"Chad",748,"infant_mortality","62.5",35
+"Chile",10,"infant_mortality","6.3",36
+"China",16,"infant_mortality","6.2",37
+"Colombia",59,"infant_mortality","11.7",38
+"Comoros",179,"infant_mortality","54.9",39
+"Congo, Democratic Republic of the",427,"infant_mortality","57.4",40
+"Congo, Republic of the",241,"infant_mortality","30.6",41
+"Cook Islands",0,"infant_mortality","15.1",42
+"Costa Rica",24,"infant_mortality","6.7",43
+"Cote d'Ivoire",359,"infant_mortality","52.5",44
+"Croatia",3,"infant_mortality","8.4",45
+"Cuba",35,"infant_mortality","4",46
+"Cyprus",14,"infant_mortality","8.1",47
+"Czechia",3,"infant_mortality","2.6",48
+"Denmark",4,"infant_mortality","3",49
+"Djibouti",162,"infant_mortality","45.2",50
+"Dominica",36,"infant_mortality","10.7",51
+"Dominican Republic",124,"infant_mortality","21.7",52
+"Ecuador",55,"infant_mortality","11.2",53
+"Egypt",17,"infant_mortality","16.8",54
+"El Salvador",39,"infant_mortality","11.7",55
+"Equatorial Guinea",174,"infant_mortality","77.4",56
+"Eritrea",291,"infant_mortality","39.8",57
+"Estonia",5,"infant_mortality","3.3",58
+"Eswatini",118,"infant_mortality","36.7",59
+"Ethiopia",195,"infant_mortality","32.6",60
+"Fiji",30,"infant_mortality","9.7",61
+"Finland",8,"infant_mortality","2.1",62
+"France",7,"infant_mortality","3.1",63
+"Gabon",233,"infant_mortality","26.9",64
+"Gambia, The",354,"infant_mortality","35.7",65
+"Gaza Strip",16,"infant_mortality","15.1",66
+"Georgia",20,"infant_mortality","21.7",67
+"Germany",4,"infant_mortality","3.1",68
+"Ghana",234,"infant_mortality","31.2",69
+"Greece",5,"infant_mortality","3.4",70
+"Grenada",48,"infant_mortality","9",71
+"Guatemala",94,"infant_mortality","25",72
+"Guinea-Bissau",505,"infant_mortality","46.4",73
+"Guinea",494,"infant_mortality","47",74
+"Guyana",75,"infant_mortality","21.1",75
+"Haiti",328,"infant_mortality","36.8",76
+"Honduras",47,"infant_mortality","15.4",77
+"Hungary",12,"infant_mortality","4.7",78
+"Iceland",3,"infant_mortality","1.6",79
+"India",80,"infant_mortality","30.4",80
+"Indonesia",140,"infant_mortality","18.9",81
+"Iran",16,"infant_mortality","14.3",82
+"Iraq",66,"infant_mortality","18.7",83
+"Ireland",4,"infant_mortality","3.3",84
+"Israel",2,"infant_mortality","2.8",85
+"Italy",6,"infant_mortality","3.1",86
+"Jamaica",130,"infant_mortality","10.7",87
+"Japan",3,"infant_mortality","1.9",88
+"Jordan",31,"infant_mortality","13.2",89
+"Kazakhstan",10,"infant_mortality","8",90
+"Kenya",379,"infant_mortality","26.1",91
+"Kiribati",80,"infant_mortality","31.5",92
+"Korea, North",67,"infant_mortality","15.4",93
+"Korea, South",4,"infant_mortality","2.8",94
+"Kuwait",8,"infant_mortality","7.2",95
+"Kyrgyzstan",42,"infant_mortality","24.5",96
+"Laos",112,"infant_mortality","35.4",97
+"Latvia",19,"infant_mortality","4.7",98
+"Lebanon",15,"infant_mortality","6.7",99
+"Lesotho",478,"infant_mortality","45.7",100
+"Liberia",628,"infant_mortality","55.7",101
+"Libya",59,"infant_mortality","10.7",102
+"Lithuania",8,"infant_mortality","3.6",103
+"Luxembourg",12,"infant_mortality","3.2",104
+"Madagascar",445,"infant_mortality","37.5",105
+"Malawi",225,"infant_mortality","31.9",106
+"Malaysia",26,"infant_mortality","6.4",107
+"Maldives",32,"infant_mortality","24.4",108
+"Mali",367,"infant_mortality","57.4",109
+"Malta",8,"infant_mortality","4.4",110
+"Marshall Islands",155,"infant_mortality","20.6",111
+"Mauritania",381,"infant_mortality","48.9",112
+"Mauritius",66,"infant_mortality","11.6",113
+"Mexico",42,"infant_mortality","12.1",114
+"Micronesia, Federated States of",129,"infant_mortality","20.9",115
+"Moldova",19,"infant_mortality","13.8",116
+"Monaco",5,"infant_mortality","1.7",117
+"Mongolia",41,"infant_mortality","19.4",118
+"Montenegro",6,"infant_mortality","3.2",119
+"Morocco",70,"infant_mortality","18.3",120
+"Mozambique",82,"infant_mortality","58.2",121
+"Namibia",139,"infant_mortality","27.9",122
+"Nauru",273,"infant_mortality","7.6",123
+"Nepal",142,"infant_mortality","24",124
+"Netherlands",4,"infant_mortality","3.6",125
+"New Zealand",7,"infant_mortality","3.3",126
+"Nicaragua",60,"infant_mortality","14.4",127
+"Niger",350,"infant_mortality","64.3",128
+"Nigeria",993,"infant_mortality","53.7",129
+"North Macedonia",3,"infant_mortality","7",130
+"Norway",1,"infant_mortality","1.8",131
+"Oman",13,"infant_mortality","13.9",132
+"Pakistan",155,"infant_mortality","51.5",133
+"Palau",89,"infant_mortality","10.8",134
+"Panama",37,"infant_mortality","14.2",135
+"Papua New Guinea",189,"infant_mortality","32",136
+"Paraguay",58,"infant_mortality","22",137
+"Peru",51,"infant_mortality","10.8",138
+"Philippines",84,"infant_mortality","22",139
+"Poland",2,"infant_mortality","4.9",140
+"Portugal",15,"infant_mortality","2.4",141
+"Puerto Rico",11,"infant_mortality","5.8",142
+"Qatar",4,"infant_mortality","6.4",143
+"Romania",12,"infant_mortality","5.5",144
+"Russia",9,"infant_mortality","6.5",145
+"Rwanda",229,"infant_mortality","24.9",146
+"Saint Kitts and Nevis",74,"infant_mortality","8",147
+"Saint Lucia",44,"infant_mortality","11.5",148
+"Saint Vincent and the Grenadines",56,"infant_mortality","12.3",149
+"Samoa",101,"infant_mortality","17.3",150
+"San Marino",8,"infant_mortality","6.2",151
+"Sao Tome and Principe",75,"infant_mortality","42.6",152
+"Saudi Arabia",7,"infant_mortality","11.7",153
+"Senegal",237,"infant_mortality","31.1",154
+"Serbia",11,"infant_mortality","4.5",155
+"Seychelles",42,"infant_mortality","10.2",156
+"Sierra Leone",354,"infant_mortality","71.2",157
+"Singapore",6,"infant_mortality","1.5",158
+"Slovakia",4,"infant_mortality","5.1",159
+"Slovenia",3,"infant_mortality","1.5",160
+"Solomon Islands",123,"infant_mortality","19.1",161
+"Somalia",563,"infant_mortality","83.6",162
+"South Africa",118,"infant_mortality","21.9",163
+"South Sudan",692,"infant_mortality","60.1",164
+"Spain",3,"infant_mortality","2.4",165
+"Sri Lanka",18,"infant_mortality","6.8",166
+"Sudan",256,"infant_mortality","40.6",167
+"Suriname",84,"infant_mortality","29.6",168
+"Sweden",4,"infant_mortality","2.3",169
+"Switzerland",5,"infant_mortality","3",170
+"Syria",20,"infant_mortality","15.1",171
+"Tajikistan",14,"infant_mortality","21.7",172
+"Tanzania",276,"infant_mortality","29.6",173
+"Thailand",34,"infant_mortality","6.3",174
+"Timor-Leste",192,"infant_mortality","32.2",175
+"Togo",349,"infant_mortality","38.4",176
+"Tonga",67,"infant_mortality","11.8",177
+"Trinidad and Tobago",54,"infant_mortality","15.1",178
+"Tunisia",36,"infant_mortality","11.3",179
+"Turkey (Turkiye)",15,"infant_mortality","18.4",180
+"Turkmenistan",5,"infant_mortality","35.9",181
+"Tuvalu",170,"infant_mortality","27.8",182
+"Uganda",170,"infant_mortality","28.5",183
+"Ukraine",15,"infant_mortality","8.7",184
+"United Arab Emirates",3,"infant_mortality","5",185
+"United Kingdom",8,"infant_mortality","3.8",186
+"United States",17,"infant_mortality","5.1",187
+"Uruguay",15,"infant_mortality","8",188
+"Uzbekistan",26,"infant_mortality","18.2",189
+"Vanuatu",100,"infant_mortality","13.7",190
+"Venezuela",227,"infant_mortality","13.9",191
+"Vietnam",48,"infant_mortality","14.1",192
+"West Bank",16,"infant_mortality","15.1",193
+"Yemen",118,"infant_mortality","44.6",194
+"Zambia",85,"infant_mortality","35.6",195
+"Zimbabwe",358,"infant_mortality","33.4",196
+"Afghanistan",521,"life_expectancy","54.4",1
+"Albania",7,"life_expectancy","79.9",2
+"Algeria",62,"life_expectancy","77.9",3
+"Andorra",11,"life_expectancy","83.8",4
+"Angola",183,"life_expectancy","62.9",5
+"Antigua and Barbuda",35,"life_expectancy","78.3",6
+"Argentina",33,"life_expectancy","78.8",7
+"Armenia",19,"life_expectancy","76.7",8
+"Australia",2,"life_expectancy","83.5",9
+"Austria",6,"life_expectancy","82.7",10
+"Azerbaijan",18,"life_expectancy","75.9",11
+"Bahamas, The",76,"life_expectancy","76.7",12
+"Bahrain",17,"life_expectancy","80.4",13
+"Bangladesh",115,"life_expectancy","75.2",14
+"Barbados",35,"life_expectancy","79",15
+"Belarus",1,"life_expectancy","74.7",16
+"Belgium",4,"life_expectancy","82.3",17
+"Belize",67,"life_expectancy","74.3",18
+"Benin",518,"life_expectancy","63",19
+"Bhutan",47,"life_expectancy","73.7",20
+"Bolivia",146,"life_expectancy","72.5",21
+"Bosnia and Herzegovina",6,"life_expectancy","78.5",22
+"Botswana",155,"life_expectancy","66.4",23
+"Brazil",67,"life_expectancy","76.3",24
+"Brunei",36,"life_expectancy","78.9",25
+"Bulgaria",6,"life_expectancy","76.1",26
+"Burkina Faso",242,"life_expectancy","64.2",27
+"Burma",185,"life_expectancy","70.3",28
+"Burundi",392,"life_expectancy","68.1",29
+"Cabo Verde",40,"life_expectancy","74.3",30
+"Cambodia",137,"life_expectancy","71.4",31
+"Cameroon",258,"life_expectancy","64.2",32
+"Canada",12,"life_expectancy","84.2",33
+"Central African Republic",692,"life_expectancy","56.4",34
+"Chad",748,"life_expectancy","60",35
+"Chile",10,"life_expectancy","80.3",36
+"China",16,"life_expectancy","78.7",37
+"Colombia",59,"life_expectancy","74.9",38
+"Comoros",179,"life_expectancy","67.8",39
+"Congo, Democratic Republic of the",427,"life_expectancy","62.6",40
+"Congo, Republic of the",241,"life_expectancy","72.9",41
+"Cook Islands",0,"life_expectancy","77.6",42
+"Costa Rica",24,"life_expectancy","80.3",43
+"Cote d'Ivoire",359,"life_expectancy","63.2",44
+"Croatia",3,"life_expectancy","77.7",45
+"Cuba",35,"life_expectancy","80.1",46
+"Cyprus",14,"life_expectancy","80.2",47
+"Czechia",3,"life_expectancy","78.6",48
+"Denmark",4,"life_expectancy","82.1",49
+"Djibouti",162,"life_expectancy","65.9",50
+"Dominica",36,"life_expectancy","78.7",51
+"Dominican Republic",124,"life_expectancy","72.6",52
+"Ecuador",55,"life_expectancy","74.9",53
+"Egypt",17,"life_expectancy","75",54
+"El Salvador",39,"life_expectancy","75.9",55
+"Equatorial Guinea",174,"life_expectancy","63.9",56
+"Eritrea",291,"life_expectancy","67.5",57
+"Estonia",5,"life_expectancy","78.4",58
+"Eswatini",118,"life_expectancy","60.7",59
+"Ethiopia",195,"life_expectancy","67.7",60
+"Fiji",30,"life_expectancy","74.8",61
+"Finland",8,"life_expectancy","82.2",62
+"France",7,"life_expectancy","82.6",63
+"Gabon",233,"life_expectancy","70.4",64
+"Gambia, The",354,"life_expectancy","68.4",65
+"Gaza Strip",16,"life_expectancy","75.5",66
+"Georgia",20,"life_expectancy","72.8",67
+"Germany",4,"life_expectancy","81.9",68
+"Ghana",234,"life_expectancy","70.1",69
+"Greece",5,"life_expectancy","81.9",70
+"Grenada",48,"life_expectancy","76.3",71
+"Guatemala",94,"life_expectancy","73.5",72
+"Guinea-Bissau",505,"life_expectancy","64.5",73
+"Guinea",494,"life_expectancy","64.6",74
+"Guyana",75,"life_expectancy","72.4",75
+"Haiti",328,"life_expectancy","65.6",76
+"Honduras",47,"life_expectancy","73.1",77
+"Hungary",12,"life_expectancy","76",78
+"Iceland",3,"life_expectancy","84",79
+"India",80,"life_expectancy","68.2",80
+"Indonesia",140,"life_expectancy","73.6",81
+"Iran",16,"life_expectancy","75.6",82
+"Iraq",66,"life_expectancy","73.7",83
+"Ireland",4,"life_expectancy","82",84
+"Israel",2,"life_expectancy","83.1",85
+"Italy",6,"life_expectancy","83",86
+"Jamaica",130,"life_expectancy","76.3",87
+"Japan",3,"life_expectancy","85.2",88
+"Jordan",31,"life_expectancy","76.5",89
+"Kazakhstan",10,"life_expectancy","73.3",90
+"Kenya",379,"life_expectancy","70.4",91
+"Kiribati",80,"life_expectancy","68.5",92
+"Korea, North",67,"life_expectancy","73.5",93
+"Korea, South",4,"life_expectancy","83.4",94
+"Kuwait",8,"life_expectancy","79.6",95
+"Kyrgyzstan",42,"life_expectancy","72.9",96
+"Laos",112,"life_expectancy","69",97
+"Latvia",19,"life_expectancy","76.4",98
+"Lebanon",15,"life_expectancy","79.2",99
+"Lesotho",478,"life_expectancy","60.2",100
+"Liberia",628,"life_expectancy","61.6",101
+"Libya",59,"life_expectancy","77.7",102
+"Lithuania",8,"life_expectancy","76.1",103
+"Luxembourg",12,"life_expectancy","83.4",104
+"Madagascar",445,"life_expectancy","68.8",105
+"Malawi",225,"life_expectancy","73",106
+"Malaysia",26,"life_expectancy","76.6",107
+"Maldives",32,"life_expectancy","77.4",108
+"Mali",367,"life_expectancy","63.2",109
+"Malta",8,"life_expectancy","83.6",110
+"Marshall Islands",155,"life_expectancy","75.2",111
+"Mauritania",381,"life_expectancy","65.9",112
+"Mauritius",66,"life_expectancy","75.4",113
+"Mexico",42,"life_expectancy","74.6",114
+"Micronesia, Federated States of",129,"life_expectancy","75",115
+"Moldova",19,"life_expectancy","70.1",116
+"Monaco",5,"life_expectancy","89.8",117
+"Mongolia",41,"life_expectancy","71.9",118
+"Montenegro",6,"life_expectancy","78.2",119
+"Morocco",70,"life_expectancy","74.2",120
+"Mozambique",82,"life_expectancy","58.3",121
+"Namibia",139,"life_expectancy","65.9",122
+"Nauru",273,"life_expectancy","68.6",123
+"Nepal",142,"life_expectancy","73",124
+"Netherlands",4,"life_expectancy","81.9",125
+"New Zealand",7,"life_expectancy","82.9",126
+"Nicaragua",60,"life_expectancy","74.7",127
+"Niger",350,"life_expectancy","60.9",128
+"Nigeria",993,"life_expectancy","62.2",129
+"North Macedonia",3,"life_expectancy","77.3",130
+"Norway",1,"life_expectancy","82.9",131
+"Oman",13,"life_expectancy","77.4",132
+"Pakistan",155,"life_expectancy","70.3",133
+"Palau",89,"life_expectancy","75.2",134
+"Panama",37,"life_expectancy","79.2",135
+"Papua New Guinea",189,"life_expectancy","70.1",136
+"Paraguay",58,"life_expectancy","78.8",137
+"Peru",51,"life_expectancy","68.9",138
+"Philippines",84,"life_expectancy","70.8",139
+"Poland",2,"life_expectancy","76.7",140
+"Portugal",15,"life_expectancy","81.9",141
+"Puerto Rico",11,"life_expectancy","82.1",142
+"Qatar",4,"life_expectancy","80.3",143
+"Romania",12,"life_expectancy","76.9",144
+"Russia",9,"life_expectancy","72.3",145
+"Rwanda",229,"life_expectancy","66.6",146
+"Saint Kitts and Nevis",74,"life_expectancy","77.6",147
+"Saint Lucia",44,"life_expectancy","79.4",148
+"Saint Vincent and the Grenadines",56,"life_expectancy","77.2",149
+"Samoa",101,"life_expectancy","75.7",150
+"San Marino",8,"life_expectancy","84.2",151
+"Sao Tome and Principe",75,"life_expectancy","67.7",152
+"Saudi Arabia",7,"life_expectancy","77.2",153
+"Senegal",237,"life_expectancy","70.6",154
+"Serbia",11,"life_expectancy","75.3",155
+"Seychelles",42,"life_expectancy","76.6",156
+"Sierra Leone",354,"life_expectancy","59.4",157
+"Singapore",6,"life_expectancy","86.7",158
+"Slovakia",4,"life_expectancy","77.2",159
+"Slovenia",3,"life_expectancy","82.2",160
+"Solomon Islands",123,"life_expectancy","77.2",161
+"Somalia",563,"life_expectancy","56.5",162
+"South Africa",118,"life_expectancy","71.9",163
+"South Sudan",692,"life_expectancy","60.3",164
+"Spain",3,"life_expectancy","83",165
+"Sri Lanka",18,"life_expectancy","76.8",166
+"Sudan",256,"life_expectancy","67.8",167
+"Suriname",84,"life_expectancy","72.7",168
+"Sweden",4,"life_expectancy","82.9",169
+"Switzerland",5,"life_expectancy","83.9",170
+"Syria",20,"life_expectancy","74.8",171
+"Tajikistan",14,"life_expectancy","71.9",172
+"Tanzania",276,"life_expectancy","70.8",173
+"Thailand",34,"life_expectancy","78.2",174
+"Timor-Leste",192,"life_expectancy","70.5",175
+"Togo",349,"life_expectancy","72.1",176
+"Tonga",67,"life_expectancy","78",177
+"Trinidad and Tobago",54,"life_expectancy","76.5",178
+"Tunisia",36,"life_expectancy","77.3",179
+"Turkey (Turkiye)",15,"life_expectancy","76.7",180
+"Turkmenistan",5,"life_expectancy","72.4",181
+"Tuvalu",170,"life_expectancy","69",182
+"Uganda",170,"life_expectancy","69.7",183
+"Ukraine",15,"life_expectancy","70.5",184
+"United Arab Emirates",3,"life_expectancy","79.9",185
+"United Kingdom",8,"life_expectancy","82.2",186
+"United States",17,"life_expectancy","80.9",187
+"Uruguay",15,"life_expectancy","78.9",188
+"Uzbekistan",26,"life_expectancy","76.2",189
+"Vanuatu",100,"life_expectancy","75.7",190
+"Venezuela",227,"life_expectancy","74.5",191
+"Vietnam",48,"life_expectancy","76.1",192
+"West Bank",16,"life_expectancy","76.5",193
+"Yemen",118,"life_expectancy","68.2",194
+"Zambia",85,"life_expectancy","66.9",195
+"Zimbabwe",358,"life_expectancy","67.2",196

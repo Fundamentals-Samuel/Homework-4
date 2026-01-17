@@ -1,0 +1,52 @@
+---
+title: "Homework 4 Samuel Cavalheiro"
+output: html_document
+---
+
+##Excerise 1: Merging
+```{r}
+#Read the three data sets from the CIA, cleaned up in homework 3
+infant <- read.csv("infant_mortality.csv")
+life <- read.csv("life_expectancy.csv")
+maternal <- read.csv("maternal_mortality.csv")
+
+#merging infant mortality and life expectancy on common columns
+merged_rough <- merge(infant, life)
+
+#Merging rough file with maternal mortality to make final file
+final_merged <- merge(merged_rough, maternal)
+
+#verifying column info
+head(final_merged)
+
+#verifying using dimensions to see if no rows were lost
+dim(final_merged)
+
+#saving as csv
+write.csv(final_merged, "final_merged.csv", row.names = FALSE)
+```
+
+
+##Exercise 2: Aggregating
+```{r}
+#Using the aggregate function to calculate the mean of all variables grouped by region
+region_aggregated <- aggregate(. ~ region, data = final_merged[, -1], FUN = mean)
+
+#verifying the aggregated table by printning
+print(region_aggregated)
+
+#save the results into csv file
+write.csv(region_aggregated, "region_aggregated.csv", row.names = FALSE)
+```
+
+#Exercise 3: Reshaping
+```{r}
+#converting the wide merged data into long format following steps in colab notebook and textbook
+long <- reshape( final_merged, varying = 2:4,v.names = "Value",timevar = "Indicator",times = names(final_merged)[2:4], direction = "long")
+
+#verifying the first ten rows 
+head(long, 10)
+
+#saving as csv file
+write.csv(long, "long.csv", row.names = FALSE)
+```
